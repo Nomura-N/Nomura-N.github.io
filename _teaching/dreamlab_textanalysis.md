@@ -7,7 +7,6 @@ importance: 3
 location: University of Pennsylvania Dream Lab
 year: 2017
 type: Co-Instructor
-syllabus: nomura_dreamlab_textanalysis.pdf
 ---
 
 

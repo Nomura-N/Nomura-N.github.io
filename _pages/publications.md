@@ -7,7 +7,7 @@ years: [2022, 2021]
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/publications.md 
 <div class="publications">
 
 {%- for y in page.years %}
@@ -16,7 +16,10 @@ nav_order: 1
 {% endfor %}
 
 
-</div>
+</div>-->
+
+## Articles
+* "Voice." Nika Mavrody, Laura B. McGrath, **Nichole Nomura**, & Alex Sherman. *Journal of Cultural Analytics*, 2021
 
 ## Reviews 
 * "[Wiring the Post45 Together: Review of Rachele Dini's 'All-Electric' Narratives](https://ancillaryreviewofbooks.org/2022/03/04/wiring-the-post45-together-review-of-rachele-dinis-all-electric-narratives/)". *Ancillary Review of Books.* 3/2022.

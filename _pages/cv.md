@@ -15,8 +15,9 @@ cv_pdf: nomura_cv.pdf
 
 ## Education
 
-**Ph.D., Stanford University, Department of English (2016-present)**
+**Ph.D., Stanford University, Department of English (2016-2023)**
 - Dissertation: "Science Fiction's Pedagogy: Didactic Models & Experiential Simulations"
+- Winner, Alden Dissertation Prize for greatest promise of scholarly achievement (2024)
 - Committee: Mark Algee-Hewitt (Chair), Mark McGurl, Jennifer Wolf, Sarah Levine
 
 **M.A., Stanford University, Graduate School of Education (2019)**
@@ -37,16 +38,15 @@ cv_pdf: nomura_cv.pdf
 ## Publications
 
 ### Articles
-* "The streets we know best': *The Fast and the Furious*'s imagined Los Angeles." Forthcoming *Post45/Contemporaries* cluster. **Nichole Nomura**.
-* “A Standpoint Theory of Allegory: Progressive Possibilities in Emezi’s Pet.” Forthcoming, *International Journal of Young Adult Literature*. **Nichole Nomura**. 2023.
-* “Microgenres.” forthcoming Stanford Literary Lab Pamphlet. Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Erik Fredner, Ryan Heuser, Xander Manshel, **Nichole Nomura**, J.D. Porter, Hannah Walser. 2022.
-* “Novel World-Building in Science Fiction.” forthcoming, solicited by Cultural Analytics/NovelTM. **Nichole Nomura** and Mark Algee-Hewitt. 2022.
+* "[The Librarian, The Computer, The Android, and Big Data](https://vector-bsfa.com/2023/12/02/the-librarian-the-computer-the-android-and-big-data/)". *Vector.* **Nichole Nomura** and Quinn Dombrowski.  12/2023.
+* "The streets we know best': *The Fast and the Furious*'s imagined Los Angeles." *Post45/Contemporaries* cluster. **Nichole Nomura**. 11/2022.
 * "[Voice](https://doi.org/10.22148/001c.22222)." Journal of Cultural Analytics/Post-45 crossover issue. Nika Mavrody, Laura B. McGrath, **Nichole Nomura**, Alexander Sherman. 4/2021. doi: https://doi.org/10.22148/001c.22222
 
 ### Reviews 
 * "[Wiring the Post45 Together: Review of Rachele Dini's 'All-Electric' Narratives](https://ancillaryreviewofbooks.org/2022/03/04/wiring-the-post45-together-review-of-rachele-dinis-all-electric-narratives/)". *Ancillary Review of Books.* 3/2022.
 
 ## Fellowships
+* Mellon Foundation Sawyer Seminar Postdoctoral Fellowship, Stanford CESTA, 2023-2024
 * Mellon Foundation Dissertation Fellowship, Stanford Humanities Center 2022-2023
 * Stanford Center for Spatial and Textual Analysis (CESTA) Digital Humanities Graduate Research Fellow, 2019-2020
 

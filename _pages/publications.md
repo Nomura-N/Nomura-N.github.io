@@ -9,6 +9,8 @@ nav_order: 1
 ---
 
 ## Articles
+* "[The Librarian, The Computer, The Android, and Big Data](https://vector-bsfa.com/2023/12/02/the-librarian-the-computer-the-android-and-big-data/)". Nichole Nomura and Quinn Dombrowski. Vector, 12/2023.
+* “The streets we know best’: The Fast and the Furious’s imagined Los Angeles.” Nichole Nomura. Post45/Contemporaries Cluster. 11/2022.
 * "Voice." Nika Mavrody, Laura B. McGrath, **Nichole Nomura**, & Alex Sherman. *Journal of Cultural Analytics*, 2021
 
 ## Reviews 

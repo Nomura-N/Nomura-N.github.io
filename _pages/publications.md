@@ -15,6 +15,5 @@ nav_order: 1
 * "[Wiring the Post45 Together: Review of Rachele Dini's 'All-Electric' Narratives](https://ancillaryreviewofbooks.org/2022/03/04/wiring-the-post45-together-review-of-rachele-dinis-all-electric-narratives/)". *Ancillary Review of Books.* 3/2022.
 
 ## Forthcoming
-* “A Standpoint Theory of Allegory: Progressive Possibilities in Emezi’s Pet.” Forthcoming, *International Journal of Young Adult Literature*. **Nichole Nomura**. 2022.
-* “Microgenres.” forthcoming Stanford Literary Lab Pamphlet. Mark Algee-Hewitt, Michaela Bronstein, Abigail Droge, Erik Fredner, Ryan Heuser, Xander Manshel, **Nichole Nomura**, J.D. Porter, Hannah Walser. 2022.
-* “Novel World-Building in Science Fiction.” forthcoming, solicited by Cultural Analytics/NovelTM. **Nichole Nomura** and Mark Algee-Hewitt. 2022.
+
+* “Novel World-Building in Science Fiction.” forthcoming, solicited by Cultural Analytics/NovelTM. **Nichole Nomura** and Mark Algee-Hewitt. 2024.

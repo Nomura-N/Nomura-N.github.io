@@ -13,7 +13,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 Hi! I'm Nichole Nomura, and I'm currently an Associate Director of the Stanford Literary Lab, a digital humanities research collective, and a lecturer in the Department of English at Stanford. Before this, I was a  postdoctoral researcher at Stanford’s Center for Spatial and Textual Analysis (CESTA) as a part of the Mellon Sawyer Seminar “The Data that Divides Us.” I recieved my Ph.D. in English from Stanford University with a Graduate Certificate in Digital Humanities and am a graduate of Stanford's Graduate School of Education (M.A.). 
 

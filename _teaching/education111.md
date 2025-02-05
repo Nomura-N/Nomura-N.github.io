@@ -7,7 +7,7 @@ importance: 3
 location: Stanford
 year: 2020-2022, 2024
 type: Co-Instructor with Jennifer Wolf
-syllabus: nomura_education111.pdf
+syllabus: 
 ---
           
 -- 

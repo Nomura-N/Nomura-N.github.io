@@ -21,4 +21,4 @@ I study how literature teaches and is taught, English pedagogy, and Young Adult 
 
 
 ### Upcoming talks 
-* October 29: "Expanding ELA" at C.E.S.T.A. with Sarah Levine
+
